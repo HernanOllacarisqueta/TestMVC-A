@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMVC", "TestMVC\TestMVC.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaApi", "PruebaApi\PruebaApi.csproj", "{8717D4BA-C40A-4AF8-9F4E-D62A6284E105}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnviarMail", "EnviarMail\EnviarMail.csproj", "{D0329C01-9BF1-49AE-8D22-66F86A9F59D9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{8717D4BA-C40A-4AF8-9F4E-D62A6284E105}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8717D4BA-C40A-4AF8-9F4E-D62A6284E105}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8717D4BA-C40A-4AF8-9F4E-D62A6284E105}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0329C01-9BF1-49AE-8D22-66F86A9F59D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0329C01-9BF1-49AE-8D22-66F86A9F59D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0329C01-9BF1-49AE-8D22-66F86A9F59D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0329C01-9BF1-49AE-8D22-66F86A9F59D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
